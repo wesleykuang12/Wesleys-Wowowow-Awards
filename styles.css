@@ -1,0 +1,44 @@
+h1 {
+    
+}
+p 
+.rice {
+    width: 300px;
+}
+body {
+    text-align: center;
+    background: url("https://i.gifer.com/J4o.gif");
+    background-size: 700px;
+}
+.smash {
+    width: 500px;
+}
+.bruno {
+    width: 300px;
+}
+.china {
+    width: 600px;
+}
+body   {
+    background-color: red;
+}
+.food {
+    font-family: 'Permanent Marker', cursive;
+    color: #08d11c;
+    background-color: skyblue;
+}
+.videogame {
+    font-family: 'Luckiest Guy', cursive;
+    color: #0a6dd1;
+     background-color: skyblue;
+}
+.city  {
+    font-family: 'Anton', sans-serif;
+    color: #5be6ff;
+     background-color: blue;
+}
+.song {
+    font-family: 'Nova Mono', monospace;
+    color: #fbff19;
+     background-color: blue;
+}
